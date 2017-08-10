@@ -1,0 +1,16 @@
+D:\ModelViewer\ModelViewer\bin\Debug\ModelViewer.exe.config
+D:\ModelViewer\ModelViewer\bin\Debug\ModelViewer.exe
+D:\ModelViewer\ModelViewer\bin\Debug\ModelViewer.pdb
+D:\ModelViewer\ModelViewer\obj\Debug\MainWindow.g.cs
+D:\ModelViewer\ModelViewer\obj\Debug\Window1.g.cs
+D:\ModelViewer\ModelViewer\obj\Debug\App.g.cs
+D:\ModelViewer\ModelViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer_MarkupCompile.cache
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer_MarkupCompile.lref
+D:\ModelViewer\ModelViewer\obj\Debug\MainWindow.baml
+D:\ModelViewer\ModelViewer\obj\Debug\Window1.baml
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer.g.resources
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer.Properties.Resources.resources
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer.csproj.GenerateResource.Cache
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer.exe
+D:\ModelViewer\ModelViewer\obj\Debug\ModelViewer.pdb
